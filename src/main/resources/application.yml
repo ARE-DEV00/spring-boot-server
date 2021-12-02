@@ -1,0 +1,5 @@
+are:
+  text: 테스트
+
+server:
+  port: 8080
